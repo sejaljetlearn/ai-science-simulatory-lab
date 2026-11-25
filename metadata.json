@@ -1,0 +1,6 @@
+{
+  "name": "AI Science Lab",
+  "description": "An interactive futuristic digital science laboratory for learners aged 12–14 featuring physics, chemistry, biology, and astronomy simulations, science challenges, and real-time AI mentor guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
